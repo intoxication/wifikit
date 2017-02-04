@@ -2,9 +2,9 @@
 
 The WiFi + Relays Board Kit is a simple actuator for your home control system. You can control lights, home appliances, irrigation system, whatever you want, just connect the appliance to one of the relays and integrate it to your system.
 
-This kit is based on the ESP8266-01, program it to your needs. Just connect you USB to UART adapter and upload the sketch using the ```FLASH``` and ```RESET``` buttons. In the documentation you will find examples to "talk" with your kit using HTTP or MQTT.
+This kit is based on the ESP8266-01, program it to your needs. Just connect you USB to UART adapter and upload the sketch using the ```FLASH``` and ```RESET``` buttons. In the documentation you will find examples to "talk" with your kit using [HTTP](https://github.com/jorgegarciadev/wifikit/tree/master/HTTP_Server) or [MQTT](https://github.com/jorgegarciadev/wifikit/tree/master/mqtt).
 
-The power supply is integrated in the circuit, so no more USB chargers. The kit also ncludes several protection measures like a fuse before the power supply and optocouplers isolating the controler from the relay's circuit.
+The power supply is integrated in the circuit, so no more USB chargers. The kit also includes several protection measures like a fuse before the power supply and optocouplers isolating the controller from the relay's circuit.
 
 ####Characteristics:
 
@@ -101,5 +101,3 @@ La fuente de alimentación está integrada en el propio circuito, no más cargad
 ####¿Qué no incluye?
 
 - Programador Serie a USB
-
-
