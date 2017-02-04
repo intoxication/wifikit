@@ -6,7 +6,7 @@ This kit is based on the ESP8266-01, program it to your needs. Just connect you 
 
 The power supply is integrated in the circuit, so no more USB chargers. The kit also includes several protection measures like a fuse before the power supply and optocouplers isolating the controller from the relay's circuit.
 
-####Characteristics:
+#####Characteristics:
 
 - Dimensions: 920 x 50 x 1,6mm
 - Weight: 96g
@@ -21,7 +21,7 @@ The power supply is integrated in the circuit, so no more USB chargers. The kit 
 	- Max DC voltage: 30v
 	
 
-####Included:
+#####Included:
 
 - 1 x WiFi + Relays Board Kit PCB
 - 1 x Fuse holder M205
@@ -45,7 +45,7 @@ The power supply is integrated in the circuit, so no more USB chargers. The kit 
 - 1 x 4x1 male pin header
 - 1 x 4x2 female pin header
 
-####Not included:
+#####Not included:
 
 - UART to USB adapter
 
@@ -59,7 +59,7 @@ El kit está basado en el ESP8266-01, podrás programarlo para que se adapte a t
 
 La fuente de alimentación está integrada en el propio circuito, no más cargadores USB. Además incluye varías medidas de seguridad como fusible previo a la alimentación, y optoacopladores aislando el controlador del circuito de los relés.
 
-####Características:
+#####Características:
 
 - Dimensiones: 920 x 50 x 1,6mm
 - Peso: 96g
@@ -74,7 +74,7 @@ La fuente de alimentación está integrada en el propio circuito, no más cargad
 	- Voltaje máx. continua: 30v
 	
 
-####¿Qué incluye?
+#####¿Qué incluye?
 
 - 1 x PCB WiFi + Relays Board Kit
 - 1 x Portafusibles M205
@@ -98,6 +98,6 @@ La fuente de alimentación está integrada en el propio circuito, no más cargad
 - 1 x Conector macho 4x1
 - 1 x Conector hembra 4x2
 
-####¿Qué no incluye?
+#####¿Qué no incluye?
 
 - Programador Serie a USB
