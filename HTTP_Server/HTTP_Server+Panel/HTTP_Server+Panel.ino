@@ -22,16 +22,16 @@ const char* moo = "<!DOCTYPE html>\
 <meta name='apple-mobile-web-app-capable' content='yes' />\
 <meta name='apple-mobile-web-app-status-bar-style' content='black'>\
 <meta name='apple-mobile-web-app-title' content='Material Design Lite'>\
-<link rel='apple-touch-icon-precomposed' href='https://raw.githubusercontent.com/jorgegarciadev/blog/master/verja/img/ios-desktop.png'>\
-<meta name='msapplication-TileImage' content='https://raw.githubusercontent.com/jorgegarciadev/blog/master/verja/img/ms-touch-icon-144x144-precomposed.png'>\
-<meta name='msapplication-TileColor' content='#3f51b5'><link rel='shortcut icon' href='https://raw.githubusercontent.com/jorgegarciadev/blog/master/verja/img/android-desktop.png'>\
+<link rel='apple-touch-icon-precomposed' href='https://raw.githubusercontent.com/jorgegarciadev/blog/master/HTTP_Server/HTTP_Server+Panel/server/img/ios-desktop.png'>\
+<meta name='msapplication-TileImage' content='https://raw.githubusercontent.com/jorgegarciadev/blog/master/HTTP_Server/HTTP_Server+Panel/server/img/ms-touch-icon-144x144-precomposed.png'>\
+<meta name='msapplication-TileColor' content='#3f51b5'><link rel='shortcut icon' href='https://raw.githubusercontent.com/jorgegarciadev/blog/master/HTTP_Server/HTTP_Server+Panel/server/img/android-desktop.png'>\
 <title>Panel</title>\
 <link rel='stylesheet' href='https://storage.googleapis.com/code.getmdl.io/1.0.6/material.indigo-blue.min.css'>\
 <script src='https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js'>\
 </script><link rel='stylesheet' href='https://fonts.googleapis.com/icon?family=Material+Icons'>\
-<link rel='stylesheet' href='https://rawgit.com/jorgegarciadev/blog/master/verja/verja.css'>\
+<link rel='stylesheet' href='https://rawgit.com/jorgegarciadev/blog/master/HTTP_Server/HTTP_Server+Panel/server/verja.css'>\
 <script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js'></script>\
-</head><body></body><script src='https://rawgit.com/jorgegarciadev/blog/master/verja/verja.js'>\
+</head><body></body><script src='https://rawgit.com/jorgegarciadev/blog/master/HTTP_Server/HTTP_Server+Panel/server/verja.js'>\
 </script></html>";
 
 char buffer[26];
